@@ -1,7 +1,8 @@
 # React Native auth demo
 
 ## About
-This is a demo app to study and demonstrate the proper implementation of an authentication flow in React Native with React Navigation.
+This is a demo app to study and demonstrate the proper implementation of an authentication flow in React Native with Context API & Hooks.
+
 This app was done by following [RocketSeat](https://rocketseat.com.br/)'s [Masterclass #12](https://www.youtube.com/watch?v=KISMYYXSIX8).
 
 <img src="./.github/screens.gif" width="200" />
